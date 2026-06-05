@@ -361,8 +361,6 @@ Le dashboard affiche :
 - État du bouclier
 - Tentatives d'exfiltration bloquées
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=GUARD-IA+Dashboard)
-
 ---
 
 ## 💡 Exemples
