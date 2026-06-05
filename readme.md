@@ -24,7 +24,6 @@
 - [Dashboard](#-dashboard)
 - [Exemples](#-exemples)
 - [Bug Bounty](#-bug-bounty)
-- [Tarifs](#-tarifs)
 - [Support](#-support)
 
 ---
