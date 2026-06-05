@@ -465,7 +465,7 @@ Toute tentative de reverse engineering, de désassemblage ou de contournement es
 
 ## 📞 Contact commercial
 
-```yaml
+
 contact:
   name: Gérard D.
   email: UnAlphaOne@proton.me
