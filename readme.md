@@ -4,7 +4,7 @@
 
 ## Protection totale pour IA d'entreprise avec RBAC et politiques sectorielles
 
-[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/guard-ia/guard-ia)
+[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/guard-ia)
 [![Python](https://img.shields.io/badge/python-3.10+-green.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-Commercial-red.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/security-KERNEL--Φ_inspired-brightgreen.svg)](#)
