@@ -469,7 +469,7 @@ Toute tentative de reverse engineering, de désassemblage ou de contournement es
 contact:
   name: Gérard D.
   email: UnAlphaOne@proton.me
-  github: UnAlphaOne https://github.com/UnAlphaOne/guard-ia
+  github: UnAlphaOne <sub>https://github.com/UnAlphaOne/guard-ia</sub>
   demo: https://t.me/KERNEL_Phi_Demo_bot
 ```
 
