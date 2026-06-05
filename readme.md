@@ -1,5 +1,4 @@
 
-```markdown
 # 🛡️ GUARD-IA Enterprise
 
 ## Protection totale pour IA d'entreprise avec RBAC et politiques sectorielles
